@@ -1,0 +1,15 @@
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\bin\Debug\netstandard2.0\mko.deps.json
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\bin\Debug\netstandard2.0\mko.dll
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\bin\Debug\netstandard2.0\ref\mko.dll
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\bin\Debug\netstandard2.0\mko.pdb
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.AssemblyInfo.cs
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.dll
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\refint\mko.dll
+C:\Users\ALUMNO\Desktop\paractica\mko\mko\mko\obj\Debug\netstandard2.0\mko.pdb

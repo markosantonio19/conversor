@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mko.MainPage">
+
+    <StackLayout>
+        <Label Text="Convertidor de Peso" FontSize="Title" HorizontalOptions="CenterAndExpand" />
+
+        <Entry x:Name="librasEntry" Placeholder="Libras" />
+        <Button Text="Convertir a Kilogramos" Clicked="ConvertirPeso" />
+        <Label x:Name="resultadoPesoLabel" />
+
+        <Label Text="Convertidor de Volumen" FontSize="Title" HorizontalOptions="CenterAndExpand" />
+
+        <Entry x:Name="litrosEntry" Placeholder="Litros" />
+        <Button Text="Convertir a Galones" Clicked="ConvertirVolumen" />
+        <Label x:Name="resultadoVolumenLabel" />
+
+        <Label Text="Convertidor de Temperatura" FontSize="Title" HorizontalOptions="CenterAndExpand" />
+
+        <Entry x:Name="celsiusEntry" Placeholder="Grados Celsius" />
+        <Button Text="Convertir a Fahrenheit" Clicked="ConvertirTemperatura" />
+        <Label x:Name="resultadoTemperaturaLabel" />
+    </StackLayout>
+</ContentPage>
